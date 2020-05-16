@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="Michael.U.Bergens.CopyNixDirPlugin">
+    <option name="replaceWith" value="" />
+    <option name="search" value="" />
+    <option name="tryString" value="C:\dir\blah\meh\file.ext" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.6.9 (sftp://vuko@127.0.0.1:22/home/vuko/.virtualenvs/carrot/bin/python)" project-jdk-type="Python SDK" />
+</project>
